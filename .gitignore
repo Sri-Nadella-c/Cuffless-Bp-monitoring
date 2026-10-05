@@ -1,0 +1,10 @@
+data/* 
+!data/.gitkeep 
+results/* 
+!results/.gitkeep 
+*.zip 
+*.csv 
+*.h5 
+*.pt 
+*.npy 
+*.parquet 
